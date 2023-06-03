@@ -2,7 +2,7 @@ const Header = () => {
 
     return (
         <header>
-            <h1>SaqibWithaQ's TodoList</h1>
+            <h1>Fayaaz's ToDoList</h1>
         </header>
     )
 }
