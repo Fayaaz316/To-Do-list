@@ -3,7 +3,7 @@ import mongoose from 'mongoose';
 
 const Connection = () => {
 
-    const MONGODB_URI = `mongodb+srv://mern:todo123@mern-todo.vbs99ep.mongodb.net/?retryWrites=true&w=majority`;
+    const MONGODB_URI = `mongodb+srv://fayaazhassan316:F12345678@cluster0.igfj887.mongodb.net/?retryWrites=true&w=majority`;
 
     mongoose.connect(MONGODB_URI, { useNewUrlParser: true });
 
